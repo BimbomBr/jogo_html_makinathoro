@@ -130,7 +130,7 @@ function Escolha11111() {
 function Escolha111112() {
   var formation = ''
   formation += '<br>';
-  formation += '<h3> Vocês tem uma viagem longa, porém sem nenhuma interrupção e enfim conseguem chegar ao laboratório e por fim você conseguiu salvar o mundo de um apocalipse zumbi. </h3>'
+  formation += '<h3> Vocês tem uma viagem longa, porém sem nenhuma interrupção e enfim conseguem chegar ao laboratório e criar a cura do vírus. </h3>'
   formation += '<br>';
   $(".principal").append(formation);
 }
