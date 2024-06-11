@@ -224,7 +224,6 @@ function Escolha211() {
   var formation = '';
   formation += '<br>';
   formation += '<h3> Por azar, você acabou sendo cercado por um bando de zumbis e é infectado. </h3>';
-  formation += '<img src="">';
   formation += '<br>';
   $(".principal").append(formation);
 }
