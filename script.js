@@ -66,7 +66,7 @@ function Escolha1112() {
   var formation = '';
   formation += '<br>';
   formation += '<h3> No meio do caminho, vocês encontram uma horda de zumbis. </h3>'
-  formation += '<img src="imagens/" class="imagens">';
+  formation += '<img src="imagens/zumbihorda.jpg" class="imagens">';
   formation += '<br>';
   formation += '<div class="botao">'
   formation += '<button class="botoes" onclick="Escolha11121()">Lutar</button>';
@@ -224,6 +224,7 @@ function Escolha211() {
   var formation = '';
   formation += '<br>';
   formation += '<h3> Por azar, você acabou sendo cercado por um bando de zumbis e é infectado. </h3>';
+  formation += '<img src="">';
   formation += '<br>';
   $(".principal").append(formation);
 }
